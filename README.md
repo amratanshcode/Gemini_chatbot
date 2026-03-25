@@ -4,18 +4,18 @@
 ```
 my-chatbot/
 ├── backend/
-│   ├── main.py              ← YOU write code here (backend)
-│   ├── requirements.txt     ← DON'T TOUCH
-│   └── START_BACKEND.bat    ← Double-click to start backend
+│   ├── main.py              ← Main backend code 
+│   ├── requirements.txt     ← Requirement text file 
+│   └── START_BACKEND.bat    ← to start backende
 └── frontend/
-    ├── index.html           ← DON'T TOUCH
-    ├── package.json         ← DON'T TOUCH
-    ├── vite.config.js       ← DON'T TOUCH
+    ├── index.html           ← 
+    ├── package.json         ← 
+    ├── vite.config.js       ← 
     └── src/
-        ├── main.jsx         ← DON'T TOUCH
-        ├── index.css        ← DON'T TOUCH
-        ├── App.jsx          ← YOU write code here (UI)
-        └── App.css          ← YOU write code here (styles)
+        ├── main.jsx         ← 
+        ├── index.css        ← 
+        ├── App.jsx          ← UI jsx file 
+        └── App.css          ← React style file 
 ```
 
 ---
