@@ -1,4 +1,4 @@
-#Gemini chatbot 
+##Gemini chatbot 
 This project was built as part of my internship at MP ONLINE limited , where I worked with the React - Fast api and N8n automation tools , integrate api   to develop and deploy scalable applications.
 
 A full-stack conversational AI application powered by Google's Gemini API. This project demonstrates a clean separation between frontend and backend, featuring a modern React-based user interface and a Python-based API server.
@@ -29,8 +29,11 @@ Gemini Chatbot is a web application that provides an intuitive interface for int
 
 Gemini_chatbot/
 ├── backend/
+
 │   ├── main.py                 # Core backend server logic
+
 │   ├── requirements.txt        # Python dependencies
+
 │   └── START_BACKEND.bat       # Windows batch script to launch backend
 └── frontend/
     ├── index.html              # HTML entry point
@@ -41,6 +44,7 @@ Gemini_chatbot/
         ├── App.jsx             # Main application component
         ├── index.css           # Global styles
         └── App.css             # Component-specific styles
+        
 ### Backend Structure
 
 The backend handles:
